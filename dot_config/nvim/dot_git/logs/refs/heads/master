@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 3338d3920620861f8313a2745fd5d2be39f39534 Loris Catizzone <loriscatiz@gmail.com> 1752998408 +0200	clone: from https://github.com/loriscatiz/kickstart.nvim.git
+3338d3920620861f8313a2745fd5d2be39f39534 8aeba1d5521583db5ad65b515377a93dff6fa9e9 Loris Catizzone <loriscatiz@gmail.com> 1753021944 +0200	commit: first things
+8aeba1d5521583db5ad65b515377a93dff6fa9e9 aa26f9e8b829205574ef7dd11934dad619da7d66 Loris Catizzone <loriscatiz@gmail.com> 1753081063 +0200	commit: django syntax highlighting
+aa26f9e8b829205574ef7dd11934dad619da7d66 44f09f354f5febb35bdb64554db0fefc83d9056c Loris Catizzone <loriscatiz@gmail.com> 1753167051 +0200	commit: codeium
+44f09f354f5febb35bdb64554db0fefc83d9056c 01a591dad2b94e3b22e5c40aad362dddd208cbae Loris Catizzone <loriscatiz@gmail.com> 1753338893 +0200	commit: some things
+01a591dad2b94e3b22e5c40aad362dddd208cbae 15a07d27df5afed2c9f62f3ca5be2ae61e342e74 Loris Catizzone <loriscatiz@gmail.com> 1753340188 +0200	commit: set default colorscheme working
+15a07d27df5afed2c9f62f3ca5be2ae61e342e74 b16e9d02bca5803ed13a65e7d200956b83d51fe8 Loris Catizzone <loriscatiz@gmail.com> 1753512742 +0200	commit: colorscheme
+b16e9d02bca5803ed13a65e7d200956b83d51fe8 d3dc6dde915097cf4d6f61d4e40c1dc762bca729 Loris Catizzone <loriscatiz@gmail.com> 1753986717 +0200	commit: underscores and hyphens are words
